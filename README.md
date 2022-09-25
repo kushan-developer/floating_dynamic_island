@@ -4,4 +4,4 @@
 
 Provider support for `dynamic island`, make it easy to build **In-App notification**.
 
-**this library support ALL platform**
+
