@@ -1,8 +1,6 @@
 # floating_dynamic_island
 
-[![Pub](https://img.shields.io/pub/v/overlay_support.svg)](https://pub.dev/packages/floating_dynamic_island)
-[![Pub](https://img.shields.io/pub/v/overlay_support.svg?include_prereleases)](https://pub.dev/packages/floating_dynamic_island)
-<!-- [![CI](https://github.com/boyan01/overlay_support/workflows/CI/badge.svg)](https://github.com/boyan01/overlay_support/actions) -->
+[![Pub](https://img.shields.io/badge/pub-0.0.1-blue)](https://pub.dev/packages/floating_dynamic_island)
 
 Provider support for `dynamic island`, make it easy to build **In-App notification**.
 
